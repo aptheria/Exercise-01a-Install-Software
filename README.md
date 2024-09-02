@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Andrew Theriault
 
 My github username is:
 
-[Your Username]
+Aptheria
 
 BL-MSCH-C220
