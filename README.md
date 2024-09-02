@@ -5,6 +5,6 @@ Andrew Theriault
 
 My github username is:
 
-Aptheria
+aptheria
 
 BL-MSCH-C220
